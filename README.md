@@ -50,7 +50,7 @@ Whether you're a social media manager, influencer, or a tech-savvy professional,
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/g0drlc/Eliza-Twitter-AI-Agent.git
+   git clone https://github.com/terauss/Eliza-Twitter-AI-Agent.git
    cd Eliza-Twitter-AI-Agent
    ```  
 
@@ -139,4 +139,4 @@ We welcome contributions! To contribute:
 
 ## 📧 **Contact**  
 
-For questions or feedback, feel free to  reach out on Telegram: [@g0drlc](https://t.me/g0drlc).
+For questions or feedback, feel free to  reach out on Telegram: [@terauss](https://t.me/terauss).
